@@ -1,5 +1,7 @@
 <Solution>
   <Folder Name="/Material/">
+    <Project Path="NotaDoAluno1/NotaDoAluno1.csproj" Id="95e0ae79-7688-41d1-aa2e-b99aead55fcc" />
     <Project Path="OlaMundo/OlaMundo.csproj" />
+    <Project Path="SaidaDeValoresTabuada/SaidaDeValoresTabuada.csproj" Id="7d9c7e25-e912-4e66-bf10-e692c25cf5f9" />
   </Folder>
 </Solution>
